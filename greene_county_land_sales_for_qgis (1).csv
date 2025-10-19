@@ -1,0 +1,136 @@
+address,city,state,zip_code,latitude,longitude,sale_price($),lot_size_acres,price_per_acre,final_area_name,sold_date,price_tier,undervalued_flag
+1221 Linger Longer Dr,Greensboro,GA,30642,33.41131402,-83.20656932,615000,1.21,508264.46280991734,South West Greensboro Premium District,2025-07-28,Luxury,False
+1051 Big Water Cir,Greensboro,GA,30642,33.46811258,-83.26336791,150000,0.6,250000.0,South West Greensboro Mid-Range District,2025-03-28,Mid-Range,False
+1000 Curtright Pl,Greensboro,GA,30642,33.41110072,-83.20452235,500000,0.63,793650.7936507936,South West Greensboro Premium District,2025-04-23,Premium,False
+0 E Broad St,Greensboro,GA,30642,33.5784582,-83.1703827,28000,0.7,40000.0,Central Greensboro Mid-Range District,2024-11-22,Budget,False
+1290 Fairway Ridge Dr,Greensboro,GA,30642,33.47011861,-83.26278949,270000,0.63,428571.4285714286,South West Greensboro Mid-Range District,2025-07-02,Premium,False
+1150 Swift Crk,Greensboro,GA,30642,33.44807531,-83.20880298,600000,3.96,151515.15151515152,South West Greensboro Premium District,2025-05-12,Luxury,False
+1050 Akers Knl,Greensboro,GA,30642,33.44353719,-83.21784598,285000,0.65,438461.53846153844,South West Greensboro Premium District,2024-11-22,Premium,False
+1020 Jackson Ln,Greensboro,GA,30642,33.40763283,-83.21016299,366500,0.7,523571.4285714286,South West Greensboro Premium District,2024-11-15,Premium,False
+1190 Curtright Pl,Greensboro,GA,30642,33.41263754,-83.19886015,2300000,0.5,4600000.0,South West Greensboro Premium District,2025-07-30,Luxury,False
+1130 Liberty Bluff Rd,Greensboro,GA,30642,33.40505299,-83.21220862,280000,0.61,459016.39344262297,South West Greensboro Premium District,2024-10-15,Premium,False
+1201 Maple Ridge Way,Greensboro,GA,30642,33.42424708,-83.22512017,370000,1.2,308333.3333333334,South West Greensboro Premium District,2025-04-18,Premium,False
+1041 Dejarnet Ct,Greensboro,GA,30642,33.4218211,-83.22424749,391000,1.01,387128.71287128713,South West Greensboro Premium District,2025-03-14,Premium,False
+1380 Armour Rd,Greensboro,GA,30642,33.47827254,-83.18212581,216000,1.51,143046.35761589403,South Greensboro Mid-Range District,2025-09-03,Mid-Range,False
+1051 Pebble Hill Ln,Greensboro,GA,30642,33.47358041,-83.25886368,53000,0.64,82812.5,South West Greensboro Mid-Range District,2025-08-25,Budget,False
+1241 Rose Crk,Greensboro,GA,30642,33.45723585,-83.21662461,479000,0.8,598750.0,South West Greensboro Premium District,2025-01-08,Premium,False
+2200 Geer Rd,Union Point,GA,30669,33.68305246,-83.15162806,195000,40.19,4851.9532221945765,Union Point Affordable Area,2024-10-04,Mid-Range,True
+1011 Oliver Crk,Greensboro,GA,30642,33.4545362,-83.22897518,460000,0.7,657142.8571428572,South West Greensboro Premium District,2025-04-14,Premium,False
+1310 Ham Fork Rd,Union Point,GA,30669,33.68898623,-83.08113812,450000,98.4,4573.170731707317,Union Point Affordable Area,2024-10-31,Premium,True
+106 Pinecrest Dr,Greensboro,GA,30642,33.57728886,-83.17181977,19000,0.32,59375.0,Central Greensboro Mid-Range District,2025-02-14,Budget,False
+1148 Pond Crest Ln,Greensboro,GA,30642,33.4656902,-83.26660841,650000,0.71,915492.957746479,South West Greensboro Mid-Range District,2024-11-07,Luxury,False
+1117 Grove Ridge Vw,Greensboro,GA,30642,33.473562,-83.266369,675000,0.71,950704.2253521127,South West Greensboro Mid-Range District,2024-10-03,Luxury,False
+0 Lamb Ave,Union Point,GA,30669,33.6112019,-83.0679606,38000,1.72,22093.023255813954,Union Point Affordable Area,2024-11-11,Budget,True
+Town Creek Blvd,Greensboro,GA,30642,33.5533773,-83.2049736,266112,6.63,40137.55656108597,Central Greensboro Mid-Range District,2025-01-29,Premium,False
+1215 Howells Grove Rd,Greensboro,GA,30642,33.4087961,-83.1923823,750000,1.11,675675.6756756756,South West Greensboro Premium District,2025-05-01,Luxury,False
+1165 Howells Grove Rd,Greensboro,GA,30642,33.4086647,-83.1932342,825000,1.18,699152.5423728814,South West Greensboro Premium District,2025-05-21,Luxury,False
+1142 Village Overlook,Greensboro,GA,30642,33.41190202,-83.21958047,290000,0.15,1933333.3333333335,South West Greensboro Premium District,2025-07-10,Premium,False
+2101 Sandy Frd,Greensboro,GA,30642,33.4601656,-83.2202131,630000,0.67,940298.5074626865,South West Greensboro Premium District,2025-09-19,Luxury,False
+0 Town Creek Blvd,Greensboro,GA,30642,33.5533773,-83.2049736,783552,27.86,28124.62311557789,Central Greensboro Mid-Range District,2025-05-12,Luxury,True
+2131 Grey Land Rd,Greensboro,GA,30642,33.5467702,-83.1107542,62500,5.0,12500.0,East Greensboro Affordable District,2025-07-22,Budget,True
+1051 Oliver Crk,Greensboro,GA,30642,33.45498123,-83.22911342,350000,1.08,324074.07407407404,South West Greensboro Premium District,2024-12-10,Premium,False
+0 Old Eatonton Rd,Greensboro,GA,30642,33.5482982,-83.2081726,655690,22.61,29000.0,Central Greensboro Mid-Range District,2025-01-31,Luxury,True
+1010 Osprey Cir,Greensboro,GA,30642,33.46265695,-83.20151027,130000,0.57,228070.17543859652,South Greensboro Mid-Range District,2025-04-02,Mid-Range,False
+2371 Club Dr,Greensboro,GA,30642,33.47894152,-83.19750128,87500,1.01,86633.66336633664,South Greensboro Mid-Range District,2024-11-21,Budget,False
+1041 Longview Cmns,Greensboro,GA,30642,33.4031128,-83.1873634,230000,0.12,1916666.6666666667,South West Greensboro Premium District,2024-11-05,Mid-Range,False
+1071 Scull Shoals Dr,Greensboro,GA,30642,33.4190994,-83.2145485,150000,0.92,163043.47826086957,South West Greensboro Premium District,2025-06-27,Mid-Range,False
+1071 Katherine Ln,Greensboro,GA,30642,33.44036783,-83.24649842,356000,1.05,339047.61904761905,South West Greensboro Premium District,2025-08-07,Premium,False
+1070 Cloudland Ct,Greensboro,GA,30642,33.46293547,-83.21172259,1500000,1.28,1171875.0,South Greensboro Mid-Range District,2024-10-25,Luxury,False
+1080 Clearwater Dr,White Plains,GA,30678,33.4006947,-83.1691906,55000,1.65,33333.333333333336,White Plains Affordable Area,2025-01-27,Budget,True
+LOT 4 Penfield Rd,Greensboro,GA,30642,33.6254558,-83.1675932,106000,10.2,10392.156862745098,Central Greensboro Mid-Range District,2025-05-07,Mid-Range,True
+2111 Bethany Rd,Greensboro,GA,30642,33.54531227,-83.04812861,30000,3.08,9740.25974025974,East Greensboro Affordable District,2024-12-20,Budget,True
+1157 Village Overlook,Greensboro,GA,30642,33.41217379,-83.21930712,300000,0.17,1764705.882352941,South West Greensboro Premium District,2025-08-25,Premium,False
+1152 Village Overlook,Greensboro,GA,30642,33.41213107,-83.21944742,300000,0.14,2142857.1428571427,South West Greensboro Premium District,2025-09-09,Premium,False
+1141 Pond Crest Ln,Greensboro,GA,30642,33.46587489,-83.26649156,590000,0.66,893939.3939393939,South West Greensboro Mid-Range District,2024-10-11,Luxury,False
+2681 Old Union Point Rd,Greensboro,GA,30642,33.6040473,-83.11571106,20000,1.22,16393.44262295082,East Greensboro Affordable District,2025-01-17,Budget,True
+1207 Howells Grove Rd,Greensboro,GA,30642,33.4087961,-83.1923823,725000,0.87,833333.3333333334,South West Greensboro Premium District,2025-04-29,Luxury,False
+5280 Veazey Rd,Greensboro,GA,30642,33.4702191,-83.112341,76999,6.08,12664.309210526315,South East Greensboro Affordable Area,2025-02-21,Budget,True
+1026 Pond Crest Ln,Greensboro,GA,30642,33.4669093,-83.26377141,800000,0.98,816326.530612245,South West Greensboro Mid-Range District,2025-05-05,Luxury,False
+1165 Village Overlook,Greensboro,GA,30642,33.41234178,-83.21929607,380000,0.2,1900000.0,South West Greensboro Premium District,2025-06-30,Premium,False
+0 Granite Dr,Greensboro,GA,30642,33.448377,-83.1730639,74500,3.61,20637.119113573408,South Greensboro Mid-Range District,2025-09-19,Budget,True
+1051 Shoulderbone Cir,Greensboro,GA,30642,33.43060014,-83.2266892,105000,1.07,98130.84112149532,South West Greensboro Premium District,2025-06-27,Mid-Range,False
+3191 Syrup Mill Xing,Greensboro,GA,30642,33.47692285,-83.11492875,216000,12.0,18000.0,South East Greensboro Affordable Area,2024-10-18,Mid-Range,True
+2460 Cherokee Dr,Greensboro,GA,30642,33.46257115,-83.20969483,59000,1.22,48360.65573770492,South Greensboro Mid-Range District,2024-12-17,Budget,False
+1031 Bridle Bit Ln,Greensboro,GA,30642,33.47012467,-83.2368947,395000,0.53,745283.0188679245,South West Greensboro Premium District,2025-03-25,Premium,False
+1050 Geneva Cir,Greensboro,GA,30642,33.46993177,-83.26951865,60000,0.15,400000.0,South West Greensboro Mid-Range District,2025-06-30,Budget,False
+1030 North Shore Ct,Greensboro,GA,30642,33.45229499,-83.2064106,2050000,0.83,2469879.5180722894,South West Greensboro Premium District,2025-04-15,Luxury,False
+1040 Bunker Bnd,Greensboro,GA,30642,33.45535272,-83.22535748,639000,0.56,1141071.4285714284,South West Greensboro Premium District,2025-08-08,Luxury,False
+1710 Snug Harbor Dr,Greensboro,GA,30642,33.4736774,-83.26816919,55000,1.25,44000.0,South West Greensboro Mid-Range District,2025-06-06,Budget,False
+1031 Snug Harbor Ct,Greensboro,GA,30642,33.47363621,-83.21020848,275000,0.58,474137.9310344828,South Greensboro Mid-Range District,2025-04-03,Premium,False
+1051 Oak Vly,Greensboro,GA,30642,33.47570682,-83.19824333,117500,0.92,127717.39130434782,South Greensboro Mid-Range District,2025-03-07,Mid-Range,False
+0 Taylor Store Rd,Union Point,GA,30669,33.681476,-83.109974,32000,1.92,16666.666666666668,Union Point Affordable Area,2025-06-27,Budget,True
+1031 Shadow Creek Way,Greensboro,GA,30642,33.4766891,-83.19149005,50000,0.62,80645.16129032258,South Greensboro Mid-Range District,2025-05-15,Budget,False
+1550 Richland Pointe,Greensboro,GA,30642,33.4033771,-83.195263,490000,0.13,3769230.769230769,South West Greensboro Premium District,2024-12-06,Premium,False
+Parker Ln,Greensboro,GA,30642,33.540081,-83.130736,75000,5.05,14851.485148514852,East Greensboro Affordable District,2025-05-30,Budget,True
+1531 Bowden Pond Rd,Greensboro,GA,30642,33.5880458,-83.12183576,129000,5.0,25800.0,East Greensboro Affordable District,2025-01-02,Mid-Range,True
+1031 East Village Walk,Greensboro,GA,30642,33.413148,-83.219676,490000,0.13,3769230.769230769,South West Greensboro Premium District,2025-03-14,Premium,False
+Parker Ln,Greensboro,GA,30642,33.540081,-83.130736,121000,10.02,12075.848303393213,East Greensboro Affordable District,2025-02-21,Mid-Range,True
+1011 Cawthorne Ln,Greensboro,GA,30642,33.42081362,-83.22740072,360000,1.2,300000.0,South West Greensboro Premium District,2025-03-28,Premium,False
+1251 Pullman Cir,Greensboro,GA,30642,33.54170024,-83.26904622,59900,0.66,90757.57575757576,West Greensboro Affordable Neighborhood,2025-01-23,Budget,False
+1010 Pine Bluff Cir,Greensboro,GA,30642,33.47148181,-83.26917523,660000,0.34,1941176.4705882352,South West Greensboro Mid-Range District,2025-08-29,Luxury,False
+1191 Mill Crk,Greensboro,GA,30642,33.580068,-83.191988,540000,0.5,1080000.0,Central Greensboro Mid-Range District,2025-03-13,Luxury,False
+0 East Broad St,Greensboro,GA,30642,33.5784582,-83.1703827,28000,0.7,40000.0,Central Greensboro Mid-Range District,2024-11-22,Budget,False
+1790 Snug Harbor Dr,Greensboro,GA,30642,33.47409415,-83.26586606,285000,0.6,475000.0,South West Greensboro Mid-Range District,2025-04-28,Premium,False
+1810 Garners Fry,Greensboro,GA,30642,33.46532179,-83.26174024,55000,0.62,88709.67741935483,South West Greensboro Mid-Range District,2025-01-27,Budget,False
+1101 Bennett Springs Dr,Greensboro,GA,30642,33.41748814,-83.23020669,50000,1.14,43859.64912280702,South West Greensboro Premium District,2025-09-23,Budget,False
+1111 Pullman Cir,Greensboro,GA,30642,33.54068311,-83.2678712,171500,0.67,255970.14925373133,West Greensboro Affordable Neighborhood,2024-12-19,Mid-Range,False
+1033 Grove Ridge Vw,Greensboro,GA,30642,33.46778693,-83.23409942,725000,1.26,575396.8253968254,South West Greensboro Premium District,2024-09-27,Luxury,False
+1671 Arrowhead Rd,Greensboro,GA,30642,33.60653496,-83.27007794,150000,1.19,126050.42016806723,West Greensboro Affordable Neighborhood,2025-07-28,Mid-Range,False
+1221 Callaway Rd,Union Point,GA,30669,33.666877,-83.1884007,120000,6.2,19354.83870967742,Union Point Affordable Area,2025-04-29,Mid-Range,True
+1041 East Village Walk,Greensboro,GA,30642,33.41294314,-83.220856,600000,0.15,4000000.0,South West Greensboro Premium District,2025-03-14,Luxury,False
+10 Cunningham Rd,Greensboro,GA,30642,33.6329289,-83.1252925,5000,1.0,5000.0,East Greensboro Affordable District,2025-07-18,Budget,True
+4631 Lake Oconee Pkwy,Greensboro,GA,30642,33.49433534,-83.2228974,1200000,33.2,36144.57831325301,South Greensboro Mid-Range District,2025-05-19,Luxury,True
+1091 Tallesse Trl,Greensboro,GA,30642,33.41913309,-83.23120711,220000,0.73,301369.86301369866,South West Greensboro Premium District,2025-04-04,Mid-Range,False
+1160 Montgomery Dr,Greensboro,GA,30642,33.46562233,-83.23175547,1800000,0.72,2500000.0,South West Greensboro Premium District,2024-12-10,Luxury,False
+1191 Sunset Overlook,Greensboro,GA,30642,33.45728514,-83.2545403,500000,2.25,222222.22222222222,South West Greensboro Premium District,2025-02-14,Premium,False
+2851 Caboose Ct,Greensboro,GA,30642,33.5397714,-83.26374911,24000,0.69,34782.608695652176,West Greensboro Affordable Neighborhood,2024-11-01,Budget,True
+1800 Osprey Poynte,Greensboro,GA,30642,33.47197335,-83.20946336,85000,1.31,64885.4961832061,South Greensboro Mid-Range District,2024-12-13,Budget,False
+1050 Pearls Ct,Greensboro,GA,30642,33.43187077,-83.2115059,400000,1.22,327868.8524590164,South West Greensboro Premium District,2024-10-18,Premium,False
+0 Lake Oconee Pkwy,Greensboro,GA,30642,33.5146905,-83.225773,1395000,4.0,348750.0,South Greensboro Mid-Range District,2025-01-27,Luxury,False
+1740 Cato Rd,Greensboro,GA,30642,33.5790578,-83.0860766,110000,7.07,15558.698727015559,East Greensboro Affordable District,2025-01-28,Mid-Range,True
+1021 Winged Foot Dr,Greensboro,GA,30642,33.47708129,-83.20071861,95000,0.61,155737.7049180328,South Greensboro Mid-Range District,2024-10-04,Budget,False
+1170 Grove Ridge Vw,Greensboro,GA,30642,33.473562,-83.266369,375000,1.36,275735.29411764705,South West Greensboro Mid-Range District,2024-12-05,Premium,False
+1011 Sunset Dr,Greensboro,GA,30642,33.4967599,-83.2736003,89000,1.26,70634.92063492064,South West Greensboro Mid-Range District,2025-02-13,Budget,False
+77,Greensboro,GA,30642,33.560655,-83.193389,10000,0.25,40000.0,Central Greensboro Mid-Range District,2025-04-25,Budget,False
+1241 E Broad St,Greensboro,GA,30642,33.57724876,-83.17258128,265000,1.89,140211.64021164022,Central Greensboro Mid-Range District,2025-08-15,Mid-Range,False
+Lake Oconee Pkwy,Greensboro,GA,30642,33.5146905,-83.225773,655690,22.61,29000.0,South Greensboro Mid-Range District,2025-02-03,Luxury,True
+1101 Meadow Crest Rd,Greensboro,GA,30642,33.54377485,-83.20705038,70000,2.0,35000.0,Central Greensboro Mid-Range District,2025-05-23,Budget,True
+1250 Glen Eagle Dr,Greensboro,GA,30642,33.46827736,-83.2057343,107000,0.52,205769.23076923075,South Greensboro Mid-Range District,2025-02-06,Mid-Range,False
+1420 Oconee Heights Dr,Greensboro,GA,30642,33.49002296,-83.27181258,155000,1.5,103333.33333333333,South West Greensboro Mid-Range District,2025-05-05,Mid-Range,False
+2160 Armors Frd,Greensboro,GA,30642,33.45196077,-83.2156834,725000,0.61,1188524.5901639345,South West Greensboro Premium District,2025-08-18,Luxury,False
+1100 Shadow Creek Way,Greensboro,GA,30642,33.47644719,-83.19153919,105000,0.61,172131.1475409836,South Greensboro Mid-Range District,2025-03-07,Mid-Range,False
+1020 Shadow Creek Way,Greensboro,GA,30642,33.47830147,-83.19263705,130000,1.87,69518.71657754011,South Greensboro Mid-Range District,2025-03-10,Mid-Range,False
+1241 Swift Crk,Greensboro,GA,30642,33.45130729,-83.20646198,125000,0.69,181159.42028985507,South West Greensboro Premium District,2025-04-03,Mid-Range,False
+1951 Armour Bridge Rd,Greensboro,GA,30642,33.44973504,-83.18939418,190000,3.36,56547.61904761905,South Greensboro Mid-Range District,2025-06-10,Mid-Range,False
+2150 Armors Frd,Greensboro,GA,30642,33.45180734,-83.21598743,675000,0.67,1007462.6865671641,South West Greensboro Premium District,2025-04-17,Luxury,False
+1470 Bramlett Rd,Greensboro,GA,30642,33.58298585,-83.09593407,114000,7.69,14824.44733420026,East Greensboro Affordable District,2025-02-21,Mid-Range,True
+1042 Pond Crest Ln,Greensboro,GA,30642,33.46675314,-83.26415059,775000,0.83,933734.9397590362,South West Greensboro Mid-Range District,2025-04-28,Luxury,False
+Lanier Rd,White Plains,GA,30678,33.437069,-83.136348,160000,23.29,6869.901245169601,White Plains Affordable Area,2025-08-25,Mid-Range,True
+1000 Eastridge Loop,Greensboro,GA,30642,33.4017708,-83.1977442,427500,1.16,368534.4827586207,South West Greensboro Premium District,2024-11-25,Premium,False
+1001 Elk River Ct,Greensboro,GA,30642,33.46791581,-83.19468536,170000,1.31,129770.9923664122,South Greensboro Mid-Range District,2025-02-21,Mid-Range,False
+1460 Hensley Rd,Greensboro,GA,30642,33.626566,-83.1543378,315000,30.62,10287.393860222077,Central Greensboro Mid-Range District,2024-12-31,Premium,True
+Pine Grove Rd,Greensboro,GA,30642,33.430523,-83.226933,200000,1.5,133333.33333333334,South West Greensboro Premium District,2025-04-02,Mid-Range,False
+1131 Sunset Overlook,Greensboro,GA,30642,33.45707827,-83.25355954,37500,0.81,46296.29629629629,South West Greensboro Premium District,2024-12-30,Budget,False
+LOT 5 Penfield Rd,Greensboro,GA,30642,33.6254558,-83.1675932,107100,10.2,10500.0,Central Greensboro Mid-Range District,2025-01-06,Mid-Range,True
+1151 Capstone Dr,Greensboro,GA,30642,33.560655,-83.193389,2900000,3.33,870870.8708708709,Central Greensboro Mid-Range District,2024-09-26,Luxury,False
+1544 Richland Pointe,Greensboro,GA,30642,33.4033771,-83.195263,470000,0.12,3916666.666666667,South West Greensboro Premium District,2024-12-04,Premium,False
+5212 Veazey Rd,Greensboro,GA,30642,33.4702191,-83.112341,130000,10.01,12987.012987012988,South East Greensboro Affordable Area,2025-01-27,Mid-Range,True
+Highway 77 N,Union Point,GA,30669,33.6190378,-83.0814282,110000,7.09,15514.809590973202,Union Point Affordable Area,2025-01-31,Mid-Range,True
+1700 Garners Fry,Greensboro,GA,30642,33.46723001,-83.26306808,135000,0.74,182432.43243243243,South West Greensboro Mid-Range District,2025-08-18,Mid-Range,False
+1030 Akers Knl,Greensboro,GA,30642,33.44384225,-83.2176369,300000,0.77,389610.3896103896,South West Greensboro Premium District,2024-12-30,Premium,False
+1112 Village Overlook,Greensboro,GA,30642,33.41186757,-83.22039189,325000,0.16,2031250.0,South West Greensboro Premium District,2025-08-08,Premium,False
+1091 Terrell Cir,Greensboro,GA,30642,33.41274526,-83.23827393,1950000,1.14,1710526.315789474,South West Greensboro Premium District,2025-01-24,Luxury,False
+1310 Oconee Landing Dr,White Plains,GA,30678,33.39714584,-83.16846009,213442,1.54,138598.7012987013,White Plains Affordable Area,2025-05-05,Mid-Range,False
+2170 Armors Frd,Greensboro,GA,30642,33.4524245,-83.21530476,700000,0.47,1489361.7021276597,South West Greensboro Premium District,2025-08-18,Luxury,False
+15,Greensboro,GA,30642,33.5737537,-83.174764,18000,2.88,6250.0,Central Greensboro Mid-Range District,2024-10-17,Budget,True
+1040 Harris Crk,Greensboro,GA,30642,33.458097,-83.22514587,440000,0.78,564102.5641025641,South West Greensboro Premium District,2024-10-28,Premium,False
+1201 Howells Grove Rd,Greensboro,GA,30642,33.4087961,-83.1923823,750000,0.87,862068.9655172414,South West Greensboro Premium District,2025-04-17,Luxury,False
+1071 Montgomery Dr,Greensboro,GA,30642,33.46573894,-83.2333598,550000,1.16,474137.9310344828,South West Greensboro Premium District,2025-07-03,Luxury,False
+1711 SE Osprey Poynte SE,Greensboro,GA,30642,33.47212561,-83.20952067,67500,0.77,87662.33766233765,South Greensboro Mid-Range District,2025-03-07,Budget,False
+1300 Lake Dr,Greensboro,GA,30642,33.47128591,-83.2121655,90000,0.87,103448.27586206897,South Greensboro Mid-Range District,2024-11-05,Budget,False
+1011 Woodmont Ct,Greensboro,GA,30642,33.45841378,-83.23046012,315000,0.22,1431818.1818181819,South West Greensboro Premium District,2025-03-27,Premium,False
+1250 Wesley Chapel Rd,Greensboro,GA,30642,33.56808098,-83.11468617,128830,9.91,13000.0,East Greensboro Affordable District,2025-01-16,Mid-Range,True
+1250 Turn Stone Dr,Greensboro,GA,30642,33.470686,-83.201651,2300000,3.04,756578.947368421,South Greensboro Mid-Range District,2025-05-19,Luxury,False
+2211 Osprey Poynte,Greensboro,GA,30642,33.4713423,-83.2101006,50000,0.7,71428.57142857143,South Greensboro Mid-Range District,2024-10-07,Budget,False
+1051 Glen Eagle Dr,Greensboro,GA,30642,33.4701321,-83.2079927,90000,0.77,116883.11688311688,South Greensboro Mid-Range District,2024-10-25,Budget,False
+1081 Sunset Dr,Greensboro,GA,30642,33.4967599,-83.2736003,1064000,0.92,1156521.7391304348,South West Greensboro Mid-Range District,2025-07-01,Luxury,False
